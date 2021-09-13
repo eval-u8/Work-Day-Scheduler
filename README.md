@@ -1,6 +1,6 @@
 # Work Day Scheduler 🗓
 
-Work Day Scheduler is a simple yet powerful planner to keep you on track while at a busy work day.
+Work Day Scheduler is a simple yet powerful planner to keep you on track while on a busy work day.
 
 ## Quirks 🎯
 
