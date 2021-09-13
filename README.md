@@ -10,7 +10,7 @@ This will only work whilst in a 6 to 3 working schedule. Otherwise the schedule 
 
 
 ## Preview 👀
-
+[Link](https://evalecillos.github.io/Work-Day-Scheduler/)
 ![Preview](./assets/images/preview.png)
 
 ## License 📓
